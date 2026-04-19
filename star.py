@@ -2,7 +2,7 @@ import turtle
 
 t=turtle.Turtle()
 
-t.color("yellow")
+# t.color("yellow")
 t.fillcolor("brown")
 
 t.speed(3)
