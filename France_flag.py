@@ -1,6 +1,7 @@
 import turtle
 
 t=turtle.Turtle()
+
 t.fillcolor("blue")
 t.begin_fill()
 for _ in range(2):
