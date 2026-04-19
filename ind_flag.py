@@ -2,7 +2,7 @@ import turtle
 
 t = turtle.Turtle()
 t.pensize(2)
-t.speed(10)
+t.speed(5)
 def move(x, y):
     t.penup()
     t.goto(x, y)
